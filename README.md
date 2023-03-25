@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Dylan-Graham
-- 👀 I’m interested in creating modern web experiences
+- 👀 I’m interested in creating modern web experiences using React & Python
 - 🌱 I’m currently learning Go
 <!-- - 💞️ I’m looking to collaborate on ... -->
 - 📫 How to reach me: dgraham365@gmail.com
