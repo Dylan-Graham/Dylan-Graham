@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Dylan-Graham a Senior Software Engineer
+- 👋 Hi, I’m @Dylan-Graham (a Senior Software Engineer)
 - 👀 I’m interested in creating modern web experiences using React & Python
 - 🌱 I’m currently learning Go
 <!-- - 💞️ I’m looking to collaborate on ... -->
